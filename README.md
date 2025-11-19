@@ -1,74 +1,136 @@
-# 🏆 OPTIVISE — FINHACK 2025 GRAND PRIZE WINNER ($1,000) 🏆
+# 🚀 VertexAlpha 🔺📈
 
-![OptiVise Banner](https://github.com/user-attachments/assets/e1147d58-f5cc-46c9-914a-f1e8b4f7eee0)
+<img width="1387" height="891" alt="Screenshot 2025-11-18 210708" src="https://github.com/user-attachments/assets/e8344be5-2bc3-4001-b4b5-290a66d4d3ac" />
 
-🚀 Smarter, Personalized Investing for Your Future!  
-🎉 1st Place Winner | Finhack 2025 | $1,000 Grand Prize 🥇
+Smarter, AI powered investing for everyone.  
+VertexAlpha brings **Google Gemini** to the world of investing, turning it into your personal **AI–powered portfolio copilot**. ✨🤖💼
 
-[🌟 Live Demo ➔](https://v0-opti-vise-landing-page-bap5eh.vercel.app/)
-
----
-
-## 🪄 About OptiVise
-
-**OptiVise** is an AI-powered investment platform that redefines smart investing.  
-It crafts **personalized, optimized portfolios** based on your unique goals, risk tolerance, and investment horizons.
-
-Built in just **5** hours at **Finhack 2025**, OptiVise impressed the judges and took home the **$1,000 Grand Prize**! 🏅
+This project blends a silky smooth landing page with an **in page financial advisor chatbot** that:
+- Speaks Markdown 📝
+- Explains trade offs like a real advisor ⚖️  
+- Guides your investment decisions in real time 📊  
+- Looks way too clean for a hackathon project 😎🔥  
 
 ---
 
-## 👥 Team OptiVise
+## ✨ What is VertexAlpha? 💡
 
-- [Viswa Kotra](https://www.linkedin.com/in/viswa-kotra/) — Vision, Development, Front end
-- [Rochan Vanam](https://www.linkedin.com/in/rochanvanam/) — Data Engineering, Portfolio Analytics
-- [Vikranth Chinnam](https://www.linkedin.com/in/vikranth-chinnam-553a21256/) — Backend Development, Optimization
-- [Rami Kamel](https://www.linkedin.com/in/ramikamel/) — Frontend Development, UI/UX
+VertexAlpha is a next generation **robo-advisor demo experience** 🎯.
 
----
+It shows how a cutting edge LLM like **Gemini** can sit atop a real world investment flow and feel like a polished fintech product.  
+The landing page walks users through the value, the chatbot gives personalized guidance, and the entire UX feels cohesive, modern, and fun 🌈⚡
 
-## ✨ Key Features
-
-- 📈 **Data-Driven Insights**  
-  Advanced algorithms analyze real-time market trends tailored to your goals.
-
-- 🛡️ **Sophisticated Risk Management**  
-  AI-powered risk assessments to safeguard your investments through market volatility.
-
-- 🔄 **Continuous Portfolio Optimization**  
-  Dynamic rebalancing to ensure peak performance.
-
-- 🎯 **Seamless User Experience**  
-  Define goals, receive a custom AI-optimized portfolio, and watch it evolve — effortlessly.
+This is not another “AI playground” —  
+**It feels like a product.** 🏆
 
 ---
 
-## 🛠️ Built With
+## 💼 Product Story 📚❤️
 
-- **HTML** — All you could ever need
+Modern investors want advice that is:
+- Smart 🧠  
+- Personalized 🎯  
+- Easy to understand 💬  
 
----
+Most tools fail by being either way too simple or unnecessarily complex. VertexAlpha fills that gap by marrying beautiful UX with conversational intelligence.
 
-## 🧠 How It Works
+The project focuses on:
+- **High quality product copy** ✍️  
+- **Smooth animations** 🎞️  
+- **A helpful AI advisor** that talks like a real human 🌟  
 
-1. **Define Your Goals**  
-   ➔ Share your financial targets and risk profile via a smart questionnaire.
-
-2. **AI-Generated Portfolio**  
-   ➔ Instantly receive a tailor-made, diversified investment portfolio.
-
-3. **Automated Management**  
-   ➔ Sit back as OptiVise monitors, rebalances, and optimizes for you — 24/7.
-
----
-
-## 📬 Let's Connect!
-
-Have ideas, feedback, or collaboration proposals?  
-Reach out — we'd love to hear from you!
+The result is a fintech prototype your judges will *definitely* think is a real product 🚀🔥
 
 ---
 
-© 2025 OptiVise. All rights reserved.
+## 🧠 Core Features 🌟
+
+### 1. 🎨 Stunning Marketing Grade Landing Page
+
+- Bold hero banner with strong branding 💥  
+- Clean typographic hierarchy ✨  
+- Mobile responsive (because professionalism matters) 📱  
+- Red accent theme for consistent brand identity ❤️🟥  
+
+### 2. 💡 Intelligent Investment Solutions
+
+Three core product cards:
+
+- 📊 **Data Driven Insights**  
+  Advanced algorithms analyze market trends for smarter decisions.
+
+- 🛡️ **Risk Management**  
+  Modern protection tools built for volatile markets.
+
+- 🎯 **Portfolio Optimization**  
+  Automated rebalancing keeps your portfolio aligned with your goals.
+
+### 3. 🧭 How VertexAlpha Works
+
+A simple 3-step journey:
+
+1. 🔍 **Define Your Goals**  
+   Share preferences, timeline, and risk tolerance.
+
+2. ⚙️ **AI Portfolio Creation**  
+   Gemini designs a tailored, diversified portfolio.
+
+3. 🔄 **Automated Management**  
+   Continuous monitoring + adjustments for optimal performance.
+
+### 4. 🤖 Embedded AI Financial Advisor Chatbot
+
+- Floating chat bubble 💬✨  
+- Animations powered by Framer Motion ⚡  
+- Uses Markdown for beautiful structured responses 📝  
+- Three dot loading animation (the vibes matter) 🔴🔴🔴  
+- Helps with:
+  - Investment strategies  
+  - Retirement planning  
+  - Risk assessment  
+  - Portfolio optimization  
+  …all in a friendly, natural tone 😄
+
+### 5. 🔮 Google Gemini Integration
+
+- Powered by `gemini-2.5-flash` ⚡  
+- System prompt crafted for clear financial guidance 🧭  
+- Responses are always structured, clean, and useful 📐  
+- Model remembers context for full conversation threads 💬🔁  
 
 ---
+
+## 🏗 Tech Stack 🧰⚙️
+
+- **Framework:** Next.js + React  
+- **Styling:** Tailwind CSS ✨  
+- **Animation:** Framer Motion 🎞️  
+- **AI Engine:** Google Gemini 🧠🔮  
+- **Icons:** lucide-react  
+- **Markdown Rendering:** `react-markdown`  
+
+Fast. Clean. Modern. Hackathon optimized 🏎️💨
+
+---
+
+## 🔌 Gemini API Usage 🤝⚡
+
+The chatbot calls Gemini using a simple REST endpoint.
+
+```ts
+const GEMINI_API_KEY = "YOUR_API_KEY"
+
+const response = await fetch(
+  "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=" + GEMINI_API_KEY,
+  {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      contents,
+      generationConfig: {
+        temperature: 0.7,
+        maxOutputTokens: 500,
+      },
+    }),
+  }
+)
